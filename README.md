@@ -8,3 +8,4 @@
 [![CodeFactor](https://www.codefactor.io/repository/github/GuilhermeStracini/hello-world-nservicebus/badge)](https://www.codefactor.io/repository/github/GuilhermeStracini/hello-world-nservicebus)
 [![GitHub license](https://img.shields.io/github/license/GuilhermeStracini/hello-world-nservicebus)](https://github.com/GuilhermeStracini/hello-world-nservicebus)
 [![GitHub last commit](https://img.shields.io/github/last-commit/GuilhermeStracini/hello-world-nservicebus)](https://github.com/GuilhermeStracini/hello-world-nservicebus)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/7de4e8d7da0646da87282dbdf9c83946)](https://app.codacy.com/gh/GuilhermeStracini/hello-world-nservicebus/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
